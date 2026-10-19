@@ -1,0 +1,8 @@
+heg
+heg-asan
+hegterm
+kernel/hegl
+term/test_term
+*.o
+heg.zip
+__pycache__/
